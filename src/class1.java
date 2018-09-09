@@ -1,7 +1,5 @@
-public class class1  {
-
-
-    public String test() {
-        return null;
+public class class1 {
+    public static void main(String[] args) {
+        System.out.printf("sadsad");
     }
 }
